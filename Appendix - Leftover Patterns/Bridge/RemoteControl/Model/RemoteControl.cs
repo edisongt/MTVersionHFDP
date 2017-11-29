@@ -8,8 +8,13 @@ namespace RemoteControlTV.Model
 {
     public abstract class RemoteControl
     {
+        // this is arregation
         protected TV _implementor;
 
+        /// <summary>
+        /// 建構子
+        /// </summary>
+        /// <param name="implementor"></param>
         public RemoteControl(TV implementor)
         {
             _implementor = implementor;

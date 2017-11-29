@@ -4,3 +4,6 @@ C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\2 - Observer Patt
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\2 - Observer Pattern\WeatherMonitor\obj\Debug\WeatherMonitor.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\2 - Observer Pattern\WeatherMonitor\obj\Debug\WeatherMonitor.exe
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\2 - Observer Pattern\WeatherMonitor\obj\Debug\WeatherMonitor.pdb
+D:\MTHFDP\2 - Observer Pattern\WeatherMonitor\bin\Debug\WeatherMonitor.exe.config
+D:\MTHFDP\2 - Observer Pattern\WeatherMonitor\obj\Debug\WeatherMonitor.exe
+D:\MTHFDP\2 - Observer Pattern\WeatherMonitor\obj\Debug\WeatherMonitor.pdb

@@ -4,3 +4,6 @@ C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftov
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Flyweight\Landscaponator\obj\Debug\Landscaponator.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Flyweight\Landscaponator\obj\Debug\Landscaponator.exe
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Flyweight\Landscaponator\obj\Debug\Landscaponator.pdb
+D:\MTHFDP\Appendix - Leftover Patterns\Flyweight\Landscaponator\bin\Debug\Landscaponator.exe.config
+D:\MTHFDP\Appendix - Leftover Patterns\Flyweight\Landscaponator\obj\Debug\Landscaponator.exe
+D:\MTHFDP\Appendix - Leftover Patterns\Flyweight\Landscaponator\obj\Debug\Landscaponator.pdb

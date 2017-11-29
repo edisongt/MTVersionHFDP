@@ -16,6 +16,7 @@ namespace WeatherMonitor.Controller
 
         public CurrentConditionsDisplay(IObservable<WeatherInfo> weatherData)
         {
+            weatherData.Subscribe(this);
             Subscribe(weatherData);
         }
 

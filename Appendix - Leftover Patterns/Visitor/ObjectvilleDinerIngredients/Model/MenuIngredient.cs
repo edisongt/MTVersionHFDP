@@ -14,9 +14,8 @@ namespace ObjectvilleDinerIngredients.Model
         private HealthRating _healthRating;
         public HealthRating HealthRating { get { return _healthRating; } private set {; } }
 
-        private int _calories;
-        public int Calories { get { return _calories; } private set {; } }
 
+        public int Calories { get; }
         private int _protein;
         public int Protein { get { return _protein; } private set {; } }
 
@@ -27,7 +26,7 @@ namespace ObjectvilleDinerIngredients.Model
         {
             _ingredientName = name;
             _healthRating = healthRating;
-            _calories = calories;
+            this.Calories = calories;
             _protein = protein;
             _carbs = carbs;
         }
